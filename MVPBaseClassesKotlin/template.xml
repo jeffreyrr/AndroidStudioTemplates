@@ -1,0 +1,11 @@
+<template format="4"
+    revision="1"
+    name="MVP Fragment Base Classes"
+    description="Creates Base Classes for a new MVP project">
+
+    <category value="MVP" />
+    <formfactor value="Mobile" />
+
+    <globals file="globals.xml.ftl" />
+    <execute file="recipe.xml.ftl" />
+</template>
