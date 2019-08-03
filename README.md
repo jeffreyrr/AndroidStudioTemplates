@@ -1,3 +1,3 @@
 # AndroidStudioTemplates
 
-This folder should be placed in ~/.android/templates/other
+This project should be placed in ~/.android/templates/other
